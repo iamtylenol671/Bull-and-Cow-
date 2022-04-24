@@ -1,5 +1,5 @@
 # Bulls-and-Cows-
-Build a Bulls and Cows game with Python
+- Build a Bulls and Cows game with Python
 
 The numerical version of the game is usually played with 4 digits, but can be played with any number of digits.
 
@@ -13,5 +13,7 @@ The first player to reveal the other's secret number wins the game.
 The game may also be played by two teams of players, with the team members discussing their strategy before selecting a move.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-References
+- References
+
+
 Wikipedia. (2022). Bulls and Cows, [19 April 2022] from https://en.wikipedia.org/wiki/Bulls_and_Cows
